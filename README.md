@@ -10,6 +10,7 @@
 |  |
 | -------- |
 | [Number of Occurrence](https://github.com/Vyshnavi-V/GeeksforGeeks/tree/main/Number%20of%20Occurrence) |
+| [Floor in a Sorted Arrray](https://github.com/Vyshnavi-V/GeeksforGeeks/tree/main/Difficulty%3A%20Easy/Floor%20in%20a%20Sorted%20Array) |
 
 ## Sliding Window
 
