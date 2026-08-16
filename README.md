@@ -15,6 +15,7 @@
 | [Floor in a Sorted Arrray](https://github.com/Vyshnavi-V/GeeksforGeeks/tree/main/Difficulty%3A%20Easy/Floor%20in%20a%20Sorted%20Array) |
 | [Ceil in a Sorted Arrray](https://github.com/Vyshnavi-V/GeeksforGeeks/tree/main/Difficulty%3A%20Easy/Ceil%20in%20a%20Sorted%20Array) |
 | [Aggressive Cows](https://github.com/Vyshnavi-V/GeeksforGeeks/tree/main/Difficulty%3A%20Medium/Aggressive%20Cows) |
+| [Allocate Minimum Pages](https://github.com/Vyshnavi-V/GeeksforGeeks/blob/main/Difficulty%3A%20Medium/Allocate%20Minimum%20Pages/allocate-minimum-pages.java) |
 
 ## Sliding Window
 
