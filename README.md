@@ -16,6 +16,7 @@
 | [Ceil in a Sorted Arrray](https://github.com/Vyshnavi-V/GeeksforGeeks/tree/main/Difficulty%3A%20Easy/Ceil%20in%20a%20Sorted%20Array) |
 | [Aggressive Cows](https://github.com/Vyshnavi-V/GeeksforGeeks/tree/main/Difficulty%3A%20Medium/Aggressive%20Cows) |
 | [Allocate Minimum Pages](https://github.com/Vyshnavi-V/GeeksforGeeks/blob/main/Difficulty%3A%20Medium/Allocate%20Minimum%20Pages/allocate-minimum-pages.java) |
+| [Kth smallest element in a Matrix](https://github.com/Vyshnavi-V/GeeksforGeeks/tree/main/Difficulty%3A%20Medium/Kth%20smallest%20element%20in%20a%20Matrix) |
 
 ## Sliding Window
 
