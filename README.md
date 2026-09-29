@@ -23,3 +23,10 @@
 |  |
 | -------- |
 | [Longest Substring with K Uniques](https://github.com/Vyshnavi-V/GeeksforGeeks/tree/main/Longest%20Substring%20with%20K%20Uniques) |
+
+## Stack
+
+|  |
+| -------- |
+| Get Max from Stack](https://github.com/Vyshnavi-V/GeeksforGeeks/tree/main/Difficulty%3A%20Medium/Aggressive%20Cows) |
+
