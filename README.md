@@ -29,4 +29,6 @@
 |  |
 | -------- |
 | [Get Max from Stack](https://github.com/Vyshnavi-V/GeeksforGeeks/tree/main/Difficulty%3A%20Medium/Get%20Max%20from%20Stack) |
+| [Reverse a Stack](https://github.com/Vyshnavi-V/GeeksforGeeks/tree/main/Difficulty:%20Medium/Reverse%20a%20Stack) |
+
 
