@@ -32,3 +32,11 @@
 | [Reverse a Stack](https://github.com/Vyshnavi-V/GeeksforGeeks/tree/main/Difficulty:%20Medium/Reverse%20a%20Stack) |
 | [Insert at Bottom of Stack](https://github.com/Vyshnavi-V/GeeksforGeeks/tree/main/Difficulty:%20Medium/Insert%20at%20Bottom%20of%20Stack) |
 | [Delete Mid of Stack](https://github.com/Vyshnavi-V/GeeksforGeeks/tree/main/Difficulty%3A%20Easy/Delete%20Mid%20of%20Stack) |
+
+## Queue
+
+|  |
+| -------- |
+| [Queue Using Array](https://github.com/Vyshnavi-V/GeeksforGeeks/tree/main/Difficulty%3A%20Easy/Queue%20Using%20Array) |
+
+
